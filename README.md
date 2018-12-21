@@ -1,10 +1,6 @@
 # factorio-server
 
-Конфигурация для сервера игры factorio.
-
-```
-IP: 165.227.166.229:34197
-```
+Настройки для игры factorio на сервере `165.227.166.229:34197`
 
 Чтобы играть нужно поставить **сначала моды**.
 
@@ -19,6 +15,7 @@ IP: 165.227.166.229:34197
 git clone git@github.com:Luchanso/factorio-server.git
 cd factorio-server
 
+# Установка доступов.
 # где password - пароль от сервера, token - факторио токен
 # Токен берётся отсюда: https://www.factorio.com/profile
 password=hello token=123 ./set-auth.sh
@@ -28,4 +25,5 @@ password=hello token=123 ./set-auth.sh
 ```
 
 Сервер будет доступен на 34197 порту
+
 Также должен быть открыт на сервере порт 27015
