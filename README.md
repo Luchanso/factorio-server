@@ -12,7 +12,7 @@
 Требуется Linux с предустановленным git и docker.
 
 ```
-git clone git@github.com:Luchanso/factorio-server.git
+git clone https://github.com/Luchanso/factorio-server.git games/factorio-server
 cd games/factorio-server
 
 # Установка доступов.
