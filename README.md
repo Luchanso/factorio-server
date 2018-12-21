@@ -13,17 +13,18 @@ IP: 165.227.166.229:34197
 
 # Запуск собственного сервера
 
-Любая операционная система с предустановленным git и docker.
+Требуется Linux с предустановленным git и docker.
 
 ```
-git clone git@github.com:Luchanso/factorio-server.git dev/factorio-server
+git clone git@github.com:Luchanso/factorio-server.git
+cd factorio-server
 
 # где password - пароль от сервера, token - факторио токен
 # Токен берётся отсюда: https://www.factorio.com/profile
 password=hello token=123 ./set-auth.sh
 
-# Запуск докер образа
-./dev/factorio-server/install and run.sh
+# Установка и запуск докер образа
+./install-and-run.sh
 ```
 
 Сервер будет доступен на 34197 порту
