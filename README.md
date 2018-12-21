@@ -16,7 +16,8 @@ git clone git@github.com:Luchanso/factorio-server.git
 cd factorio-server
 
 # Установка доступов.
-# где password - пароль от сервера, token - факторио токен
+# password - пароль который будет нужна указывать при входе на сервере в игре
+# token - факторио токен
 # Токен берётся отсюда: https://www.factorio.com/profile
 password=hello token=123 ./set-auth.sh
 
