@@ -1,0 +1,48 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "Big_Brother",
+      "enabled": true
+    },
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    {
+      "name": "CanalBuilder",
+      "enabled": true
+    },
+    {
+      "name": "DeadlockLoaders",
+      "enabled": true
+    },
+    {
+      "name": "DeadlockStacking",
+      "enabled": true
+    },
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    {
+      "name": "InductionChargingMk",
+      "enabled": true
+    },
+    {
+      "name": "LogisticTrainNetwork",
+      "enabled": true
+    },
+    {
+      "name": "MaxRateCalculator",
+      "enabled": true
+    },
+    {
+      "name": "what-is-it-really-used-for",
+      "enabled": true
+    }
+  ]
+}
