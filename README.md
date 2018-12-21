@@ -12,8 +12,8 @@
 Требуется Linux с предустановленным git и docker.
 
 ```
-git clone https://github.com/Luchanso/factorio-server.git games/factorio-server
-cd games/factorio-server
+git clone https://github.com/Luchanso/factorio-server.git
+cd factorio-server
 
 # Установка доступов.
 # password - пароль который будет нужна указывать при входе на сервере в игре
