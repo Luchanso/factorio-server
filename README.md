@@ -13,7 +13,7 @@
 
 ```
 git clone git@github.com:Luchanso/factorio-server.git
-cd factorio-server
+cd games/factorio-server
 
 # Установка доступов.
 # password - пароль который будет нужна указывать при входе на сервере в игре
