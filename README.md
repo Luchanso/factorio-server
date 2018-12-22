@@ -33,4 +33,5 @@ password=hello token=123 ./set-auth.sh
 Игра увлекательно сложна в плане управления и систематиции процессов. Чтобы не запутаться и правильно выстроить процессы, необходимо трекать что сделано, что и где дальше делать.
 
 Очень удобный калькулятор https://kirkmcdonald.github.io/calc.html
+
 Подробнее инфа о досках: https://github.com/Luchanso/factorio-server/projects
