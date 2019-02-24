@@ -1,48 +1,64 @@
 {
-  "mods": [
-    {
-      "name": "base",
-      "enabled": true
-    },
-    {
-      "name": "Big_Brother",
-      "enabled": true
-    },
-    {
-      "name": "Bottleneck",
-      "enabled": true
-    },
-    {
-      "name": "CanalBuilder",
-      "enabled": true
-    },
-    {
-      "name": "DeadlockLoaders",
-      "enabled": true
-    },
-    {
-      "name": "DeadlockStacking",
-      "enabled": true
-    },
-    {
-      "name": "EvoGUI",
-      "enabled": true
-    },
-    {
-      "name": "Induction Charging",
-      "enabled": true
-    },
-    {
-      "name": "LogisticTrainNetwork",
-      "enabled": true
-    },
-    {
-      "name": "MaxRateCalculator",
-      "enabled": true
-    },
-    {
-      "name": "what-is-it-really-used-for",
-      "enabled": true
-    }
-  ]
+    "mods": [
+        {
+            "name": "base",
+            "enabled": true
+        },
+        {
+            "name": "alien-biomes",
+            "enabled": false
+        },
+        {
+            "name": "Big_Brother",
+            "enabled": true
+        },
+        {
+            "name": "Bottleneck",
+            "enabled": true
+        },
+        {
+            "name": "CanalBuilder",
+            "enabled": true
+        },
+        {
+            "name": "creative-mode-fix",
+            "enabled": false
+        },
+        {
+            "name": "even-distribution",
+            "enabled": true
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": true
+        },
+        {
+            "name": "Induction Charging",
+            "enabled": true
+        },
+        {
+            "name": "LogisticTrainNetwork",
+            "enabled": true
+        },
+        {
+            "name": "MaxRateCalculator",
+            "enabled": true
+        },
+        {
+            "name": "Rampant",
+            "enabled": true
+        },
+        {
+            "name": "Rampant-Blockable-Projectiles",
+            "enabled": false
+        },
+        {
+            "name": "rso-mod",
+            "enabled": true
+        },
+        {
+            "name": "what-is-it-really-used-for",
+            "enabled": true
+        }
+    ]
 }
