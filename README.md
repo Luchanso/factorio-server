@@ -35,3 +35,9 @@ password=hello token=123 ./set-auth.sh
 Очень удобный калькулятор https://kirkmcdonald.github.io/calc.html
 
 Подробнее инфа о досках: https://github.com/Luchanso/factorio-server/projects
+
+
+Utils
+```
+scp ./railworld.zip root@server-ip:factorio-server/saves/railworld.zip
+```
