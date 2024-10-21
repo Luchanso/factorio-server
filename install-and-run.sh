@@ -5,4 +5,4 @@ docker run -d \
   -v ~/factorio-server:/factorio \
   --name factorio \
   --restart=always \
-  dtandersen/factorio
+  factoriotools/factorio
